@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lomda", "lomda\lomda.csproj", "{4319272D-ABCC-42C7-8235-E62B6EC0E2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4319272D-ABCC-42C7-8235-E62B6EC0E2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4319272D-ABCC-42C7-8235-E62B6EC0E2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4319272D-ABCC-42C7-8235-E62B6EC0E2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4319272D-ABCC-42C7-8235-E62B6EC0E2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C8A5866-00BF-4ACE-BE07-5A0435F4E279}
+	EndGlobalSection
+EndGlobal

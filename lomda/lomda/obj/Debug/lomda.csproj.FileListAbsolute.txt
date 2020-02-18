@@ -1,0 +1,18 @@
+C:\Users\royar\source\repos\lomda\lomda\bin\Debug\lomda.exe.config
+C:\Users\royar\source\repos\lomda\lomda\bin\Debug\lomda.exe
+C:\Users\royar\source\repos\lomda\lomda\bin\Debug\lomda.pdb
+C:\Users\royar\source\repos\lomda\lomda\obj\Debug\lomda.csprojAssemblyReference.cache
+C:\Users\royar\source\repos\lomda\lomda\obj\Debug\lomda.Form1.resources
+C:\Users\royar\source\repos\lomda\lomda\obj\Debug\lomda.Properties.Resources.resources
+C:\Users\royar\source\repos\lomda\lomda\obj\Debug\lomda.csproj.GenerateResource.cache
+C:\Users\royar\source\repos\lomda\lomda\obj\Debug\lomda.exe
+C:\Users\royar\source\repos\lomda\lomda\obj\Debug\lomda.pdb
+D:\visual studio 17\lomda\lomda\bin\Debug\lomda.exe.config
+D:\visual studio 17\lomda\lomda\bin\Debug\lomda.exe
+D:\visual studio 17\lomda\lomda\bin\Debug\lomda.pdb
+D:\visual studio 17\lomda\lomda\obj\Debug\lomda.csprojAssemblyReference.cache
+D:\visual studio 17\lomda\lomda\obj\Debug\lomda.Form1.resources
+D:\visual studio 17\lomda\lomda\obj\Debug\lomda.Properties.Resources.resources
+D:\visual studio 17\lomda\lomda\obj\Debug\lomda.csproj.GenerateResource.cache
+D:\visual studio 17\lomda\lomda\obj\Debug\lomda.exe
+D:\visual studio 17\lomda\lomda\obj\Debug\lomda.pdb
